@@ -11,3 +11,5 @@
 3. Salon Appointment Scheduler: Create a Bash script to interact with the database as well as allow the user to interact with the program (to make appointments).
 4. Periodic Table Database: Create a Bash script to interact with the database as well as allow the user to interact with the program (to find out more about an element).
 5. Number Guessing Game: Create a Bash script to interact with the database as well as allow the user to interact with the program (to play the game) while keeping track of versions using Git.
+
+Click [here](https://www.freecodecamp.org/certification/fccd3e3b7a0-09d6-437b-8c01-6a2d10ecf6fc/relational-database-v8) to access the certification.
